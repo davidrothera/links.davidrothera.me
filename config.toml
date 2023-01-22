@@ -13,5 +13,5 @@ links = [
     { github = "https://github.com/davidrothera" },
     { instagram = "https://instagram.com/drothera" },
     { twitter = "https://twitter.com/davidrothera" },
-    { email = "hello@rothera.co" },
+    { email = "mailto:hello@rothera.co" },
 ]
