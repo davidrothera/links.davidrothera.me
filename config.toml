@@ -1,3 +1,17 @@
-baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = 'lynx'
+enableEmoji = true
+
+disableKinds = ["taxonomy", "term"]
+
+[author]
+name = "David Rothera"
+# headline = "Where can you find me"
+image = "author.webp"
+links = [
+    { github = "https://github.com/davidrothera" },
+    { instagram = "https://instagram.com/drothera" },
+    { twitter = "https://twitter.com/davidrothera" },
+    { email = "hello@rothera.co" },
+]
